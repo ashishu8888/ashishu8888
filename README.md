@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Flutter,Node.js,mongoDb**
+- 💬 Ask me about **Flutter,Node.js,mongoDb**                                       <p align="right">
+  <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif" height="300" width="300" title="hover text">
+</p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashish-upadhyay-51aa211b8/**
 
 - ⚡ Fun fact **I think I am funny**
-<p align="right">
-  <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif" height="300" width="500" title="hover text">
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish-upadhyay-51aa211b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-upadhyay-51aa211b8" height="30" width="40" /></a>
