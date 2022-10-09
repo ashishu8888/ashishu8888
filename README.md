@@ -2,7 +2,7 @@
 <h3 align="center">A passionate App developer from India</h3>
 
 <p align="center">
-  <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif" height="500 width="200" title="hover text">
+  <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif" height="200" width="200" title="hover text">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishu8888&label=Profile%20views&color=0e75b6&style=flat" alt="ashishu8888" /> </p>
 
