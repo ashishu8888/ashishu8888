@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Flutter,Node.js,mongoDb,**
+- 💬 Ask me about **Flutter,Node.js,mongoDb**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashish-upadhyay-51aa211b8/**
 
