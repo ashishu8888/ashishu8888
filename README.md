@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishu8888&label=Profile%20views&color=0e75b6&style=flat" alt="ashishu8888" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishu8888" alt="ashishu8888" /></a> </p>
-  <p align="right">
-                                                                        <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif"                                                                                              height="300" width="300" title="hover text">
-                                                                                                      </p>
+  <p align="centre">
+  <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif"                                                                        height="300" width="300" title="hover text">
+  </p>
 - 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **Flutter,Node.js,mongoDb**                                     
