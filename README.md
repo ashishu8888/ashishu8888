@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **Flutter,Node.js,mongoDb**                                       <p align="right">
-  <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif" height="300" width="300" title="hover text">
-</p>
+                                                                        <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif"                                                                                              height="300" width="300" title="hover text">
+                                                                                                      </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/ashish-upadhyay-51aa211b8/**
 
