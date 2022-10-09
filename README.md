@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
 <h3 align="center">A passionate App developer from India</h3>
+<img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif" width="128"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishu8888&label=Profile%20views&color=0e75b6&style=flat" alt="ashishu8888" /> </p>
 
