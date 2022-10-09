@@ -1,4 +1,4 @@
-[![MasterHead]([https://docs.flutter.dev/assets/images/flutter-logo-sharing.png](https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif))]
+[![MasterHead](https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif)]
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
