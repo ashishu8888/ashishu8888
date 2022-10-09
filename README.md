@@ -1,5 +1,5 @@
 [![MasterHead]()]
-<img src="[img_girl.jpg](https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif)" alt="Girl in a jacket" style="width:500px;height:600px;">
+<img src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" alt="Girl in a jacket" style="width:500px;height:600px;">
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
