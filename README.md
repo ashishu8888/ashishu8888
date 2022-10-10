@@ -9,7 +9,7 @@
   <p align="centre">
   <img src="https://www.hyperfusiontech.com/wp-content/uploads/2019/02/tenor.gif"                                                                        height="300" width="300" title="hover text">
   </p>
-- 🌱 I’m currently learning **MERN** **stack**
+- 🌱 I’m currently learning  MERN Stack
 
 - 💬 Ask me about **Flutter,Node.js,mongoDb**                                     
 
