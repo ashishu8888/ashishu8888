@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" height="500" width="900" title="hover text">
-  </p>
+
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
