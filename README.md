@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
-<h3 align="center">A passionate web/App developer and backend from India</h3>
+<h3 align="center">A passionate web/App and backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishu8888&label=Profile%20views&color=0e75b6&style=flat" alt="ashishu8888" /> </p>
 
